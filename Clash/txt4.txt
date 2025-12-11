@@ -53,3 +53,6 @@ www.ipget.net:2082#US
 www.worldwildlife.org:443#US
 www.zsu.gov.ua:443#US
 zula.ir:443#US
+hk.gh-proxy.com:443#US
+moda.gov.tw:443#US
+cloudflare.tv:443#US
